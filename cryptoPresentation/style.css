@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+h2{
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+p{
+    font-family: sans-serif;
+}
+
+
+.header{
+    background-color: maroon;
+    height: 75px;
+    padding: 5px;
+    background-position: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.mainPageBody{
+    margin-right: 100px;
+    margin-left: 100px;
+    height: auto;
+    padding: 50px;
+    text-align: justify;
+    background: bisque;
+    padding-bottom: 10px;
+}
+
+.who{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: bisque;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    position: center;
+    width: 750px;
+    height: auto;
+}
+
+td{
+    height: 300px;
+}
+img{
+    max-width: 350px;
+    height: 250px;
+}
+
+.hopper{
+    padding-top: 5px;
+    margin-right: auto;
+    margin-left: 50px;
+}
+
+
+.borg{
+    padding-top: 5px;
+    margin-right: auto;
+    margin-left: 50px;
+}
